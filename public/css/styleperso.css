@@ -1,0 +1,54 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+.navbar-header {
+  margin-bottom:40px;
+}
+
+a {
+  color:black;
+}
+
+.navbar-header a {
+  margin-right:20px;
+}
+
+/* Page Show */
+.col-md-4-product {
+  width:65%;
+}
+
+#show {
+  position: absolute;
+  top: 60px;
+  left: 400px;
+}
+
+/* Page Show */
+.col-md-4-small {
+  width:15%;
+}
+
+.details {
+  width:20%;
+  margin-left:30px;
+}
+
+.bouton {
+  width:100px;
+}
+
+
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
